@@ -1,0 +1,1 @@
+Programa que lê 4 opções e mostre a ordem sorteada.

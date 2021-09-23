@@ -1,4 +1,4 @@
-#Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada.
+#Programa que lê as quatro opções e mostre a ordem sorteada.
 n1 = str(input('Primeira opção: '))
 n2 = str(input('Segunda opção: '))
 n3 = str(input('Terceira opção: '))
