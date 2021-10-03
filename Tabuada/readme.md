@@ -1,0 +1,1 @@
+Programa que lê um número Inteiro qualquer e mostre na tela a sua tabuada.

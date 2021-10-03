@@ -1,1 +1,1 @@
-Programa que lê um valor em metros e o exiba convertido em centímetros e milímetros.
+Programa que le um valor em metros e o exiba convertido em centímetros e milímetros.
