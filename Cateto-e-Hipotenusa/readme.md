@@ -1,0 +1,1 @@
+Programa que lê o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo. Calcula e mostra o comprimento da hipotenusa.
