@@ -1,0 +1,1 @@
+Programa que lê a largura e a altura de uma parede em metros, calcula a sua área e a quantidade de tinta necessária para pintá-la, considerando que cada litro de tinta pinta uma área de 2 metros quadrados.
